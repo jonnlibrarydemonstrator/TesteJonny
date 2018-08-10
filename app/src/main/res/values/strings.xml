@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TesteJonny</string>
+    <string name="textMVVM">Text in Strings.XML</string>
+</resources>
